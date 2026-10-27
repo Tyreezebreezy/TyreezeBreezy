@@ -10,6 +10,16 @@ If I have a problem, I usually end up trying to fix it myself. If there's someth
 
 Sometimes that's software. Sometimes it's something running on my home server. Sometimes it's automation. More and more, I want that to include things I can actually build with my hands too.
 
+## Things I've Built
+
+Windows apps I use myself. They're local-first, so your data stays on your machine, and they're all still being worked on. Source is viewable, and I haven't picked a license yet.
+
+- **[SUNDIAL](https://github.com/Tyreezebreezy/sundial)**: a study timer with focus/break plans, a general countdown, three visual timers and a desktop widget. Tauri, React, Rust.
+- **[REDLINE](https://github.com/Tyreezebreezy/redline)**: a writing app that proofreads and explains the fixes, with local dictation and optional offline rewrites. Tauri, React, Rust.
+- **[MIDAS](https://github.com/Tyreezebreezy/midas)**: personal finance without bank sync: budgets, recurring bills, forecasts and a Safe to Spend number. Tauri, React, Rust, SQLite.
+- **[ATLAS](https://github.com/Tyreezebreezy/atlas)**: a workout tracker where you bring your own program. Gym Mode logging, PRs, milestones and a muscle map. React PWA with a Tauri shell.
+- **[SIREN](https://github.com/Tyreezebreezy/siren)**: reads documents aloud with an on-device voice and local OCR for scanned PDFs. Tauri, React, Rust.
+
 ## What I'm Into Right Now
 
 - Cybersecurity
@@ -75,7 +85,7 @@ Expect to see things around here like:
 - UI/UX experiments
 - Electronics and hardware projects
 
-I'm still figuring out how I want to handle licensing and releases, so this GitHub will grow along with the things I'm making.
+I'm still figuring out how I want to handle licensing and releases, so this GitHub will keep growing along with the things I'm making.
 
 ## Outside the Terminal
 
